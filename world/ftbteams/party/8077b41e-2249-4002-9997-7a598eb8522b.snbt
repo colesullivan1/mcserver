@@ -1,0 +1,25 @@
+{
+	id: "8077b41e-2249-4002-9997-7a598eb8522b"
+	type: "party"
+	owner: "db1abb6b-590d-493e-a0cd-316f4dbb4057"
+	ranks: {
+		ffd21cf5-e7f1-411b-b5ad-dc136eae409f: "member"
+		db1abb6b-590d-493e-a0cd-316f4dbb4057: "owner"
+		101d1eeb-c073-4c31-97b6-38abc2c27454: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Vlkes's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B2FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676703357414L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Vlkes\"}]}" }
+		{ from: "db1abb6b-590d-493e-a0cd-316f4dbb4057", date: 1676703357418L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"COLESULLY\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676703360406L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"COLESULLY\"}]}" }
+		{ from: "db1abb6b-590d-493e-a0cd-316f4dbb4057", date: 1676708082345L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"rid_master\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676708085849L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"rid_master\"}]}" }
+	]
+	extra: { }
+}

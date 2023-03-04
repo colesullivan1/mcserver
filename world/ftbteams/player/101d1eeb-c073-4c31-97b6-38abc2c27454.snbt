@@ -1,0 +1,15 @@
+{
+	id: "101d1eeb-c073-4c31-97b6-38abc2c27454"
+	type: "player"
+	player_name: "rid_master"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "rid_master"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59DB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "db1abb6b590d493ea0cd316f4dbb4057"
+	name: "Vlkes"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

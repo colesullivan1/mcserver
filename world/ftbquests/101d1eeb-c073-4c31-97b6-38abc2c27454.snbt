@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "101d1eebc0734c3197b638abc2c27454"
+	name: "rid_master"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

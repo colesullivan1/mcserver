@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "ffd21cf5e7f1411bb5addc136eae409f"
+	name: "COLESULLY"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

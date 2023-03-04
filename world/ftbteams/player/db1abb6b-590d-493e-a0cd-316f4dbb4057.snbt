@@ -1,0 +1,15 @@
+{
+	id: "db1abb6b-590d-493e-a0cd-316f4dbb4057"
+	type: "player"
+	player_name: "Vlkes"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Vlkes"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "ffd21cf5-e7f1-411b-b5ad-dc136eae409f"
+	type: "player"
+	player_name: "COLESULLY"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "COLESULLY"
+		"ftbteams:description": ""
+		"ftbteams:color": "#ED59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
